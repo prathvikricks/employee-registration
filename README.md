@@ -19,5 +19,3 @@ A small employee-registration application with three independent tiers:
 
 The API is available at http://localhost:3001/api/employees. PostgreSQL is exposed on port `5432` for local development.
 
-To stop the stack, use `docker compose down`. Add `-v` only if you want to remove the saved database data.
-# employee-registration
